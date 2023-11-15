@@ -1,0 +1,22 @@
+Prueba: 
+    Comprar Dulce con mas 50% azucar
+    Siendo estudiante
+
+    Datos Prueba:
+        Estudiante = new Estudiante(
+            3300,
+            Juan,
+            Betancourt,
+            juana@mail,
+            3
+        )
+        Dulce = new Dulce(
+            Trululu,
+            15000,
+            60
+        )
+    Resultado Prueba:
+        Total en factura debe ser
+        17.280 teniendo en cuenta el
+        impuesto adicional del 10% y el descuento
+        del 3.6 por ser estudiante de 3er semestre
